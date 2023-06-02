@@ -1,0 +1,84 @@
+[{
+  "emailId": "deepika@gmail.com",
+  "role": "Student Coordinator",
+  "userName": "Deepika",
+  "contactNumber": "9876897810"
+},
+{
+  "emailId": "ruban@gmail.com",
+  "role": "Student",
+  "userName": "Ruban",
+  "contactNumber": "7896754564"
+},
+{
+  "emailId": "sekar@gmail.com",
+  "role": "Student",
+  "userName": "Sekar",
+  "contactNumber": "8098789897"
+},
+{
+  "emailId": "shruthi@gmail.com",
+  "role": "Student Coordinator",
+  "userName": "Shruthi",
+  "contactNumber": "9876543210"
+},
+{
+  "emailId": "nive@gmail.com",
+  "role": "Student",
+  "userName": "Niveditha",
+  "contactNumber": "9898989898"
+},
+{
+  "emailId": "prasanna@gmail.com",
+  "role": "Student",
+  "userName": "Prasanna",
+  "contactNumber": "678678989"
+},
+{
+  "emailId": "eeshani@gmail.com",
+  "role": "Student",
+  "userName": "Eeshani",
+  "contactNumber": "9090909090"
+},
+{
+  "emailId": "raghav@gmail.com",
+  "role": "Mentor",
+  "userName": "Raghav",
+  "contactNumber": "8787878787"
+},
+{
+  "emailId": "vijay@gmail.com",
+  "role": "Student",
+  "userName": "Vijay",
+  "contactNumber": "7809789090"
+},
+{
+  "emailId": "kavi@gmail.com",
+  "role": "Student",
+  "userName": "Kavya",
+  "contactNumber": "8989898989"
+},
+{
+  "emailId": "lavish@gmail.com",
+  "role": "Mentor",
+  "userName": "Lavish",
+  "contactNumber": "7878787878"
+},
+{
+  "emailId": "arun@gmail.com",
+  "role": "Student",
+  "userName": "Arun",
+  "contactNumber": "7687687687"
+},
+{
+  "emailId": "rhagavy@gmail.com",
+  "role": "Student",
+  "userName": "Rhagavy",
+  "contactNumber": "9876987655"
+},
+{
+  "emailId": "vikki@gmail.com",
+  "role": "Student",
+  "userName": "Vikki",
+  "contactNumber": "9867545345"
+}]

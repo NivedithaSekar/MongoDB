@@ -1,0 +1,80 @@
+[{
+  "taskName": "Request & Response cycle",
+  "taskDescription": "Brief description of Datatypes in JS",
+  "publishedAt": {
+    "$date": "2021-10-01T18:30:00.000Z"
+  },
+  "relatedToTopic": "JS Basics"
+},
+{
+  "taskName": "CSS - Bootstrap",
+  "taskDescription": "Design the given pages as responsive web designing using HTML & Bootstrap",
+  "publishedAt": {
+    "$date": "2021-12-05T18:30:00.000Z"
+  },
+  "relatedToTopic": "FrontEnd"
+},
+{
+  "taskName": "OOPS",
+  "taskDescription": "Write down the detailed description of what OOPS concept is ",
+  "publishedAt": {
+    "$date": "2021-10-31T18:30:00.000Z"
+  },
+  "relatedToTopic": "JS Basics"
+},
+{
+  "taskName": "HTML",
+  "taskDescription": "Design the given pages using HTML",
+  "publishedAt": {
+    "$date": "2021-11-13T18:30:00.000Z"
+  },
+  "relatedToTopic": "FrontEnd"
+},
+{
+  "taskName": "XMLHTTPReuest",
+  "taskDescription": "Use Rest Country API and perform the Operations - Data manipulation",
+  "publishedAt": {
+    "$date": "2021-10-23T18:30:00.000Z"
+  },
+  "relatedToTopic": "JS Basics"
+},
+{
+  "taskName": "MRF - Array Methods",
+  "taskDescription": "Write programs implementing Map,Reduce & Filter functions",
+  "publishedAt": {
+    "$date": "2021-11-07T18:30:00.000Z"
+  },
+  "relatedToTopic": "JS Basics"
+},
+{
+  "taskName": "ES5VSES6",
+  "taskDescription": "Write down the difference between ES5 and ES6",
+  "publishedAt": {
+    "$date": "2021-10-02T18:30:00.000Z"
+  },
+  "relatedToTopic": "JS Basics"
+},
+{
+  "taskName": "Functions",
+  "taskDescription": "Write programs implementing Anonymous,IIFE & Arrow functions",
+  "publishedAt": {
+    "$date": "2021-10-24T18:30:00.000Z"
+  },
+  "relatedToTopic": "JS Basics"
+},
+{
+  "taskName": "Introduction to Browser & web",
+  "taskDescription": "Write a blog on Difference between HTTP1.1 vs HTTP2\nWrite a blog about objects and its internal representation in Javascript\n",
+  "publishedAt": {
+    "$date": "2021-10-09T18:30:00.000Z"
+  },
+  "relatedToTopic": "JS Basics"
+},
+{
+  "taskName": "JS Arrays & Objects",
+  "taskDescription": "Create your own resume in JSON format",
+  "publishedAt": {
+    "$date": "2021-10-16T18:30:00.000Z"
+  },
+  "relatedToTopic": "JS Basics"
+}]

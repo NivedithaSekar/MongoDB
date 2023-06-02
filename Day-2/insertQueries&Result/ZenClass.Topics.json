@@ -1,0 +1,32 @@
+[{
+  "topicName": "DSA",
+  "description": "Data Structure & Algorithms"
+},
+{
+  "topicName": "FrontEnd",
+  "description": "HTML\n○ What is HTML?\n○ Basic tags in HTML?\n○ Inline vs block element\n○ div vs section vs article\n○ HTML forms & Form input element with its attributes\n○ HTML form submit\nGuvi Geeks Network Pvt Ltd.\n● CSS\n○ What is CSS?\n○ property vs value\n○ Selector:- tag vs class vs id\n○ Intro to pseudo-classes (link,visited,hover,active)\n○ parent inherit\n○ Box model - margin, padding, border\n○ Flex - display, direction, wrap, flex-flow, justify-content, align-content\n○ Position property - static, relative, absolute, fixed, sticky\n○ overflow property - hidden, visible, scroll, auto\n○ box-shadow property\n○ Linear gradient\n○ Clip property\n○ Media query\n○ Use of Font & icons\n● Bootstrap\n○ What is Bootstrap?\n○ Container and grid system"
+},
+{
+  "topicName": "DOM",
+  "description": "DOM Manipulation\n● Document object and Window object\n● Method in document object\n○ createElement()\n○ setAttribute()\n○ innerHTML vs innerText\n○ append() vs appendChild()\n○ getElementById() vs querySelector() vs querySelectorAll()\n● Method in Window object\n○ prompt() vs alert() vs conform()\n○ setTimeout() vs setInterval()\n● Events - Change CSS through JavaScript\n● Cookies & session, local storage"
+},
+{
+  "topicName": "FrontEnd - FrameWork/Library",
+  "description": "Angular / ReactJS & Intro to Redux"
+},
+{
+  "topicName": "JS Basics",
+  "description": "Introduction to web\nBrowser Wars\nDOM tree, CSSOM tree.\nBrowser internals - HTML parser , CSS parser , JS engine\nLayout engine or rendering engine JavaScript\nV8 engine internals\nIP – MAC address – Ports & Evolution of HTTP\nHow the Server looks at the URL\nRequest & Response cycle\nHTML Browser view - Debugger, Inspect, Responsive View\nBrowser js vs Node js\nData types\nCopy by value and Copy by reference\nWindow & document object\nArray and JSON iteration\nXMLHTTPRequest\nHoisting & scope\nfunction & return keyword\ntypes of function\nMRF - array method\nerror handling\nES5 vs ES6 -\nOOP, this, rest & spread operator\nArray & object destructuring\nArrow functions"
+},
+{
+  "topicName": "BackEnd",
+  "description": "● MySQL & MongoDB\n● NodeJS - Connecting DB with MongoDB\n● Routes, Authentication - Middleware - JWT\n● Custom middleware"
+},
+{
+  "topicName": "Async Programming",
+  "description": "Callback - Event loop\n● Promise\n○ What are the states in the promise?\n○ Promise chaining\n○ Fetch API\n● Async/Await"
+},
+{
+  "topicName": "Cloud & Sysytem Design",
+  "description": "System Design, AWS"
+}]

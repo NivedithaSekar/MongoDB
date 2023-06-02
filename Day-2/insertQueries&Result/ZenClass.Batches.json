@@ -1,0 +1,98 @@
+[{
+  "batchName": "BWE-30",
+  "mentorId": {
+    "$oid": "6287056186da42330c3efb17"
+  },
+  "startDate": "23-02-2022",
+  "batchStrength": 6,
+  "studentDetails": [
+    {
+      "$oid": "6287056186da42330c3efb16"
+    },
+    {
+      "$oid": "6287056186da42330c3efb19"
+    },
+    {
+      "$oid": "6287056186da42330c3efb1a"
+    },
+    {
+      "$oid": "6287056186da42330c3efb1b"
+    },
+    {
+      "$oid": "6287056186da42330c3efb1c"
+    },
+    {
+      "$oid": "6287056186da42330c3efb1d"
+    }
+  ],
+  "topicsCovered": [
+    {
+      "topic": "JS Basics",
+      "startMonth": "February2022"
+    },
+    {
+      "topic": "FrontEnd",
+      "startMonth": "March2022"
+    },
+    {
+      "topic": "DOM",
+      "startMonth": "March2022"
+    },
+    {
+      "topic": "Async Programming",
+      "startMonth": "April2022"
+    },
+    {
+      "topic": "DSA",
+      "startMonth": "May2022"
+    }
+  ]
+},
+{
+  "batchName": "BWE-27",
+  "mentorId": {
+    "$oid": "6287056186da42330c3efb18"
+  },
+  "startDate": "01-12-2021",
+  "batchStrength": 4,
+  "studentDetails": [
+    {
+      "$oid": "6287056186da42330c3efb15"
+    },
+    {
+      "$oid": "6287056186da42330c3efb1e"
+    },
+    {
+      "$oid": "6287056186da42330c3efb1f"
+    },
+    {
+      "$oid": "6287056186da42330c3efb20"
+    }
+  ],
+  "topicsCovered": [
+    {
+      "topic": "JS Basics",
+      "startMonth": "December2021"
+    },
+    {
+      "topic": "FrontEnd",
+      "startMonth": "January2022"
+    },
+    {
+      "topic": "DOM",
+      "startMonth": "January2022"
+    },
+    {
+      "topic": "Async Programming",
+      "startMonth": "February2022"
+    },
+    {
+      "topic": "DSA",
+      "startMonth": "March2022"
+    },
+    {
+      "topic": "FrontEnd - FrameWork/Library",
+      "startMonth": "May2022"
+    }
+  ]
+}]

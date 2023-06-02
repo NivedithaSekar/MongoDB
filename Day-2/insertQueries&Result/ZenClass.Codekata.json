@@ -1,0 +1,72 @@
+[{
+  "problem_id": "Basic_1",
+  "description": "The area of an equilateral triangle is ¼(√3a2) where a represents a side of the triangle. You are provided with the side a. Find the area of the equilateral triangle.Input Description:The side of an equilateral triangle is provided as the input.Output Description:Find the area of the equilateral triangle and print the answer up to 2 decimal places after rounding off.Sample Input :20Sample Output :173.21",
+  "submittedBy": [
+    "Niveditha",
+    "Kavya",
+    "Prasanna",
+    "Sekar",
+    "Vikki",
+    "Ruban",
+    "Vijay",
+    "Rhagavy",
+    "Arun",
+    "Eeshani"
+  ]
+},
+{
+  "problem_id": "Basic_2",
+  "description": "You are given Two Numbers, A and B. If C = A + B. Find C.Note: Round off the output to a single decimal place.Input Description:You are provided with two numbers A and B.Output Description:Find the sum of the two numbers (A + B)Sample Input :1 1Sample Output :2",
+  "submittedBy": [
+    "Niveditha",
+    "Kavya",
+    "Prasanna",
+    "Sekar",
+    "Vikki",
+    "Ruban",
+    "Vijay",
+    "Rhagavy"
+  ]
+},
+{
+  "problem_id": "Basic_3",
+  "description": "Print the First 3 multiples of the given number N(N is a positive integer)Note: print the characters with a single space between them.Input Description:A positive integer is provided to you as an input.Output Description:Print the First 3 multiples of the number with single spaces between them as an output.Sample Input :2Sample Output :2 4 6",
+  "submittedBy": [
+    "Niveditha",
+    "Kavya",
+    "Prasanna",
+    "Sekar",
+    "Vikki",
+    "Ruban"
+  ]
+},
+{
+  "problem_id": "Array_1",
+  "description": "You are given with an circular array .Your task is calculate the difference between two consecutive number. And if difference is greater than ‘k’, print 1 else print 0Input Description:You are given two numbers ‘n’, ’m’. Next line contains n space separated integers.Output Description:Print 1 if the difference is greater than ‘m’.Sample Input :5 15 \n 50 65 85 98 35Sample Output :0 1 0 1 0",
+  "submittedBy": [
+    "Niveditha",
+    "Sekar",
+    "Vikki",
+    "Ruban",
+    "Vijay",
+    "Rhagavy",
+    "Arun",
+    "Eeshani"
+  ]
+},
+{
+  "problem_id": "Array_2",
+  "description": "You are given an array of non-negative integers representing height of walls at index i as Ai and the width of each block is 1. Compute how much air can be encapsulated between the walls of chamber.Input Description:Each line contains an integer N denoting the size of the array Next line contains N space separated numbers to be stored in array.Output Description:Output the total unit of Air encapsulated between the walls of chamber.Sample Input :3\n7 4 9Sample Output :3",
+  "submittedBy": [
+    "Niveditha",
+    "Kavya",
+    "Prasanna",
+    "Sekar",
+    "Vikki",
+    "Ruban",
+    "Vijay",
+    "Rhagavy",
+    "Arun",
+    "Eeshani"
+  ]
+}]

@@ -1,0 +1,29 @@
+[{
+  "companyName": "Flipkart",
+  "studentsAttended": [
+    "Dhanavardhan",
+    "Nandhan",
+    "Umayal"
+  ]
+},
+{
+  "companyName": "Amazon",
+  "studentsAttended": [
+    "Dhanavardhan",
+    "Harshithan",
+    "Nandhan",
+    "Prathiksha"
+  ]
+},
+{
+  "companyName": "Zoho",
+  "studentsAttended": [
+    "Bharathi",
+    "Dhanavardhan",
+    "Harshithan",
+    "Karthikeyan",
+    "Nandhan",
+    "Prathiksha",
+    "Vijayalakshmi"
+  ]
+}]
